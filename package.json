@@ -1,0 +1,17 @@
+{
+  "name": "webpack-sources-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "redux-actions": "^2.2.1",
+    "webpack": "^3.10.0",
+    "webpack-sources": "git+https://github.com/brentwilton/webpack-sources.git#dc35c1a14ac2bfc74f355ab4806c1b3596a1ca77"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}
